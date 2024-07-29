@@ -7,7 +7,7 @@ This is a project for Co-Coder Conducted by tinkerhub
 * IMAGE CONVERSION
 * IMAGE RESIZER
 ## Pre requirements
-> **The image must uploaded in the folder to use whole features of this tool**
+> **The image must be uploaded in the folder to use whole features of this tool**
 
 ## Working
 Converto converts png to jpg, jpg to png, jpeg to png and resizes the image according to the size provided by the user.
